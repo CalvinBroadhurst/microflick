@@ -102,3 +102,10 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+/.idea/.name
+/.idea/libraries/MicroPython.xml
+/.idea/microflick.iml
+/.idea/misc.xml
+/.idea/modules.xml
+/.idea/workspace.xml
+/config.json
